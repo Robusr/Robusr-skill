@@ -10,10 +10,7 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 
-<br>
-
-A digital copy of Robusr.<br>
-**Part A — Self Memory + Part B — Persona**<br>
+A digital copy of Robusr<br>
 
 [Install](#install) · [Usage](#usage) · [Examples](#examples) · [Architecture](#architecture) · [Structure](#project-structure) · [中文](README.md)
 
