@@ -1,0 +1,22 @@
+{
+  "name": "Robusr",
+  "slug": "robusr",
+  "created_at": "2026-06-18T00:00:00+08:00",
+  "updated_at": "2026-06-18T00:00:00+08:00",
+  "version": "v1",
+  "profile": {
+    "age": "20",
+    "occupation": "华中科技大学机器人工程专业大一学生",
+    "city": "武汉",
+    "gender": "男",
+    "mbti": "",
+    "zodiac": ""
+  },
+  "tags": {
+    "personality": ["浪漫主义", "理想主义", "反叛精神", "文学化", "独处充电型", "边界感强", "外冷内热", "深夜思考型"],
+    "lifestyle": ["科创狂人", "自学成才", "深夜型选手", "小圈子社交"]
+  },
+  "impression": "这世界上只有两件事让我热血沸腾，那就是「爱情」和「革命」",
+  "memory_sources": ["个人自传 郭沫晗.docx", "期末周絮叨.md", "Curriculum_Vitae_CH_.pdf", "多场景模块化串联机械臂结构设计与分析优化.pdf", "I-FEST² 2025 邀请函", "Life/ 照片 35 张"],
+  "corrections_count": 0
+}
