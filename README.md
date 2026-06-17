@@ -8,8 +8,6 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 
-<br>
-
 Robusr的数字副本<br>
 
 [安装](#安装) · [使用](#使用) · [对话示例](#对话示例) · [架构](#架构) · [项目结构](#项目结构) · [English](README_EN.md)
@@ -20,7 +18,7 @@ Robusr的数字副本<br>
 
 ## 关于 Robusr
 
-**一个自由的人**
+**不想Google，就直接来问问我吧**
 
 ---
 
